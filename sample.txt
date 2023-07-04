@@ -3,3 +3,4 @@ hi
 hello
 hi
 
+my name my age my favorite color
